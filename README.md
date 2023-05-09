@@ -1,6 +1,6 @@
 ### Hi there, I'm [Vaibhav!](https://vsompura3.github.io/sastabio/index.html)👋🏻
   
-  ![](https://komarev.com/ghpvc/?username=vsompura3&color=dc143c&style=plastic&label=Visitors&color=blueviolet)
+<!--   ![](https://komarev.com/ghpvc/?username=vsompura3&color=dc143c&style=plastic&label=Visitors&color=blueviolet) -->
 
 <a href="https://www.linkedin.com/in/vaibhav-sompura/">
   <img align="left" alt="Vaibhav's LinkedIn" width="40px" height="40px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" />
