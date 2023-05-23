@@ -1,4 +1,4 @@
-### Hi there, I'm [Vaibhav!](https://vsompura3.github.io/sastabio/index.html)👋🏻
+### Hi there, I'm [Vaibhav!](https://vsompura3.github.io/sastabio/index.html)👋🏻 
   
 <!--   ![](https://komarev.com/ghpvc/?username=vsompura3&color=dc143c&style=plastic&label=Visitors&color=blueviolet) -->
 
