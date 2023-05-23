@@ -13,7 +13,7 @@
 <br />
 <br />
 
-[![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vsompura3&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/ryuk-me)
+[![Vaibhav's github stats](https://github-readme-stats.vercel.app/api?username=vsompura3&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/vsompura3)
 
 <p align = "left">
 <!--   <img src = "https://github-readme-streak-stats.herokuapp.com?user=vsompura3&theme=dark&hide_border=true" width = 400> -->
